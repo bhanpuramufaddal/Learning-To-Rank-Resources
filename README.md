@@ -29,3 +29,4 @@ with Preference Regularization](https://www.microsoft.com/en-us/research/wp-cont
 2. [Fugashi Word Tokenizer](https://github.com/polm/fugashi)
 3. [Dimensional Reduction for Word2Vec](https://datascience.stackexchange.com/questions/6612/reducing-the-dimensionality-of-word-embeddings)
 4. [Dimensional Reduction for Word2Vec, Paper](https://arxiv.org/pdf/1708.03629.pdf)
+5. [Finetune Word2Vec](https://www.kaggle.com/code/rtatman/fine-tuning-word2vec-2-0/notebook)
