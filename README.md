@@ -19,9 +19,15 @@ https://libs.garden/python/search?q=rank&sort=popular
 
 #### [Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering, State of the Art Model](https://paperswithcode.com/paper/learning-to-rank-question-answer-pairs-using#code)
 
-### Optional Reads
+### Optional Readingss
 1. [Lambdaloss, a combined framework. Theoritical explaination for Ranking Learning](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/1e34e05e5e4bf2d12f41eb9ff29ac3da9fdb4de3.pdf)<br>
 2. [Semi-supervised Learning to Rank
 with Preference Regularization](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/10/SzummerYilmaz-semisupervised-ranking-cikm11.pdf)<br>
 
 #### [Recommender Systems Specialization Course](https://www.coursera.org/specializations/recommender-systems#courses)
+
+### Miscellaneous Readings and Important Code Examples
+1. [Sentence Tokenizer](https://github.com/himkt/konoha)
+2. [Fugashi Word Tokenizer](https://github.com/polm/fugashi)
+3. [Dimensional Reduction for Word2Vec](https://datascience.stackexchange.com/questions/6612/reducing-the-dimensionality-of-word-embeddings)
+4. [Dimensional Reduction for Word2Vec, Paper](https://arxiv.org/pdf/1708.03629.pdf)
