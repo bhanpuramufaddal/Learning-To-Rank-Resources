@@ -7,7 +7,6 @@
 5. [Ranknet to LamdaRank to LambdaMart, must read](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/MSR-TR-2010-82.pdf)<br>
 
 #### [Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering](https://paperswithcode.com/paper/learning-to-rank-question-answer-pairs-using)
-#### [Recommender Systems Specialization Course](https://www.coursera.org/specializations/recommender-systems#courses)
 
 ### Frameworks and Code Examples
 1. [LambdaRank Code Example, Pytorch](https://github.com/haowei01/pytorch-examples/blob/master/ranking/LambdaRank.py)
@@ -31,3 +30,5 @@ with Preference Regularization](https://www.microsoft.com/en-us/research/wp-cont
 3. [Dimensional Reduction for Word2Vec](https://datascience.stackexchange.com/questions/6612/reducing-the-dimensionality-of-word-embeddings)
 4. [Dimensional Reduction for Word2Vec, Paper](https://arxiv.org/pdf/1708.03629.pdf)
 5. [Finetune Word2Vec](https://www.kaggle.com/code/rtatman/fine-tuning-word2vec-2-0/notebook)
+
+#### [Recommender Systems Specialization Course](https://www.coursera.org/specializations/recommender-systems#courses)
