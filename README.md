@@ -18,6 +18,7 @@
 ##### References
 > https://www.opensourceagenda.com/tags/learning-to-rank<br>
 > https://libs.garden/python/search?q=rank&sort=popular
+> https://libs.garden/python/search?q=learning+to+rank
 
 ### Optional Readings
 1. [Lambdaloss, a combined framework. Theoritical explaination for Ranking Learning](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/1e34e05e5e4bf2d12f41eb9ff29ac3da9fdb4de3.pdf)<br>
