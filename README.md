@@ -8,8 +8,7 @@
 
 ### Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering <br>[here](https://paperswithcode.com/paper/learning-to-rank-question-answer-pairs-using)
 
-### Learning To Rank, Question Answering using Ubuntu Corpus + Code Examples <br>[The Ubuntu Dialogue Corpus: A Large Dataset for Research in
-Unstructured Multi-Turn Dialogue Systems](https://paperswithcode.com/paper/the-ubuntu-dialogue-corpus-a-large-dataset-1)
+### Learning To Rank, Question Answering using Ubuntu Corpus + Code Examples <br>[The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems](https://paperswithcode.com/paper/the-ubuntu-dialogue-corpus-a-large-dataset-1)
 
 ### Frameworks and Code Examples
 1. [LambdaRank Code Example, Pytorch](https://github.com/haowei01/pytorch-examples/blob/master/ranking/LambdaRank.py)
