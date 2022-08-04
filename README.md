@@ -33,5 +33,10 @@ with Preference Regularization](https://www.microsoft.com/en-us/research/wp-cont
 3. [Dimensional Reduction for Word2Vec](https://datascience.stackexchange.com/questions/6612/reducing-the-dimensionality-of-word-embeddings)
 4. [Dimensional Reduction for Word2Vec, Paper](https://arxiv.org/pdf/1708.03629.pdf)
 5. [Finetune Word2Vec](https://www.kaggle.com/code/rtatman/fine-tuning-word2vec-2-0/notebook)
+6. [UNICODE NORMALIZATION FORMS](https://unicode.org/reports/tr15/)
+7. [Normalizing text using NeologdN](https://github.com/ikegami-yukino/neologdn)
+8. [Tokenization and Lemmatization of Japanese Text, jp_tokenizer](https://github.com/CatalystCode/jp_tokenizer/tree/9505e4aef3736707b8d418946275abe843ce80f2)
+9. [Japanese text-cleaning implementation](https://github.com/ku-nlp/text-cleaning/tree/0fd762bbebb2195f24332f5a52f80c308b73ea97)
+10. [Japanese Text Preprocessing, Kaggle](https://www.kaggle.com/code/kaerunantoka/my-preprocessing-for-japanese-text-data/notebook)
 
 ### Recommender Systems Specialization Course <br> [here](https://www.coursera.org/specializations/recommender-systems#courses)
